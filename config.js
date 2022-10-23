@@ -30,8 +30,8 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Imannn17n=' //Instagram mu
-global.sgh = 'https://github.com/Private' //Github mu
+global.sig = 'https://instagram.com/humanzbotzi' //Instagram mu
+global.sgh = 'https://github.com/OrochimaruBotz' //Github mu
 global.swb = '-'
 global.sfb = 'https://www.facebook.com/'
 global.syt = 'https://www.youtube.com/'
@@ -41,27 +41,27 @@ global.sdc = 'https://youtube.com/channel/ManzBotEdtz12' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '0895385157376' //Dana
+global.pdana = '088804947282' //Dana
 global.povo = '-' //Ovo
-global.pgopay = '0895410593831' //Gopay
-global.ppulsa = '087873670287' //Pulsa 
-global.ppulsa2 = '0895410593831' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/manzedtz' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 088215689772\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 088215689772\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.pgopay = '088804947282' //Gopay
+global.ppulsa = '088804947282' //Pulsa 
+global.ppulsa2 = '088804947282' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = 'https://saweria.co/humanzboti' //Saweria
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 088804947282\n│┝‷✧ *Dana:* 088804947282\n│┝‷✧ *Gopay:* 088804947282\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895410588106' //Nomor Bot mu
-global.nomorown = '6289522724388' //Nomormu
-global.namebot = 'Iman BOT' //Nama bot mu
-global.nameown = 'ImanOffc' //Nama mu
+global.nomorbot = '62888049472822' //Nomor Bot mu
+global.nomorown = '6288804947282' //Nomormu
+global.namebot = 'FangzBot' //Nama bot mu
+global.nameown = 'Humanz' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.swo = 'https://wa.me/6289522724388'
-global.author = '                © Iman BOT By Iman' //Wm author
-global.botintro = 'Hallo, Kenalin saya Iman BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Iman* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.swo = 'https://wa.me/6288804947282'
+global.author = '             © FangzBOT by Humanz ' //Wm author
+global.botintro = 'Hallo, Kenalin saya FangzBOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Humanz* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
 global.thumbWarn = 'https://telegra.ph/file/38f72943a6f152112d128.jpg'
@@ -85,9 +85,9 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6289522724388'], //Owner1
-  ['62895410593831'], //Owner2
-  ['6289522724388', 'IMAN ! 🥶', true] //Ini buat kamu!
+  ['6288804947282'], //Owner1
+  ['62888049472822'], //Owner2
+  ['6288804947282', 'Humanz Ganteng😈', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -145,13 +145,13 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 IMAN - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Iman-Offc❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 IMAN - BOT'
+global.wm = '                「 赤 FANGZ - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀HumanzOfc❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 FANGZ- BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: ManzEdtz Official' //Ganti serah lu
+global.titlebot = 'Github: OrochimaruBotz' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -472,8 +472,8 @@ global.fpagedoc = '999' //Gausah di ganti.
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
 global.nameowner = 'Iman'
 global.umurowner = 'Secret'
-global.asalowner = 'Kepulauan Riau'
-global.nomorowner = 'wa.me/6289522724388'
+global.asalowner = 'Surabaya'
+global.nomorowner = 'wa.me/6288804947282'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
@@ -505,8 +505,8 @@ global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = 'YT: ManzEdtz'
-global.stickauth = `© Iman BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By Iman'
+global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By Huamnz'
 
 
 global.multiplier = 38 // The higher, The harder levelup
